@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
     - http://es.wikipedia.org/wiki/Juan_Valera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17223#Pepita-Jim-nez
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2005-12-04'
 gutenberg_type: Text
